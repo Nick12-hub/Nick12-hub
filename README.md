@@ -1,4 +1,4 @@
-### Hi all strangers 👋
+### Hello everyone! 👋
 
 I am now a sophomore undergraduate. 
 
@@ -14,8 +14,11 @@ The Half Marathon Personal Best Record: 1:27:56
 
 My research area :
 Computation of two-dimensional materials
+
 Chemical Vapor Deposition(CVD)
+
 Mathematical modeling
+
 Artificial intelligence and machine learning
 
 ### Contact Me 
