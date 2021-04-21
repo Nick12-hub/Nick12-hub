@@ -7,7 +7,7 @@ I am now a sophomore undergraduate. Amateur yard farmer.
 The Half Marathon Personal Best Record: __1:27:56__
 
 
-### My Research Interests:
+### My Research Interests
 
 Computation of two-dimensional materials
 
