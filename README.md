@@ -1,4 +1,4 @@
-### Hello everyone! 👋
+## Hello everyone! 👋
 
 I am now a sophomore undergraduate. Amateur yard farmer. 
 
@@ -7,9 +7,8 @@ I am now a sophomore undergraduate. Amateur yard farmer.
 The Half Marathon Personal Best Record: __1:27:56__
 
 
-### Research Interests
+### My Research Interests:
 
-My research area :
 Computation of two-dimensional materials
 
 Chemical Vapor Deposition(CVD)
