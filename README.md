@@ -1,16 +1,30 @@
 ### Hi there 👋
 
-<!--
-**Nick12-hub/Nick12-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+layout: page
+title: About
+permalink: /about/
+---
 
-Here are some ideas to get you started:
+I am now a sophomore undergraduate.
+Amateur yard farmer.
+🏃A Runner:
+The Half Marathon Personal Best Record: 1:27:56
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 It's nice to meet you!
+
+### Research Interests
+
+My research area :
+Computation of two-dimensional materials
+Chemical Vapor Deposition(CVD)
+Mathematical modeling
+Artificial intelligence and machine learning
+
+### Contact Me 
+📧 Email: [nickli12121212@gmail.com](nickli12121212@gmail.com)
+
+⌨️ Github: [nick12-hub](https://github.com/nick12-hub)
+
+🐦 Twitter: [@Nickyy_Lee](https://twitter.com/Nickyy_Lee)
+
