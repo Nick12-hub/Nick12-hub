@@ -1,11 +1,5 @@
 ### Hi there 👋
 
----
-layout: page
-title: About
-permalink: /about/
----
-
 I am now a sophomore undergraduate.
 Amateur yard farmer.
 🏃A Runner:
