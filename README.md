@@ -1,6 +1,5 @@
 ## Hello everyone! 👋
-
-I am now a sophomore undergraduate. Amateur yard farmer. 
+<img align="right" width="250" height="250" src="">I am now a sophomore undergraduate. Amateur yard farmer. 
 
 🏃A Runner: 
 
