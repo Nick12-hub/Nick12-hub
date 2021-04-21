@@ -4,7 +4,7 @@ I am now a sophomore undergraduate. Amateur yard farmer.
 
 🏃A Runner: 
 
-The Half Marathon Personal Best Record: 1:27:56
+The Half Marathon Personal Best Record: __1:27:56__
 
 
 ### Research Interests
