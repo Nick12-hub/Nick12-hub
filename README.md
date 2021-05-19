@@ -1,5 +1,6 @@
 ## Hello everyone👋 Welcome to my Pages ！
 <img align="right" width="250" height="250" src="https://github.com/Nick12-hub/Nick12-hub/blob/main/41619012120_.pic.jpg">
+
 ### Self Introduction
 
 Undergraduate II
@@ -7,7 +8,6 @@ Undergraduate II
 Amateur coder
 
 A Runner(__PB__:1:27:56(Half))
-
 
 ### My Research Interests
 First principles calculations
@@ -25,10 +25,4 @@ Mathematical modeling
 
 🐦 Twitter: [@Nickyy_Lee](https://twitter.com/Nickyy_Lee)
 
-<i class="fa fa-weixin"></i> [Nickyy_Lee]()
 
-<head> 
-    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script> 
-    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script> 
-</head> 
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
