@@ -41,13 +41,13 @@ A Runner(__PB__:1:27:56(__Half__))
 [**Mathematica**](https://www.wolfram.com/mathematica/)
 : Mathematica is Wolfram's original, flagship product—primarily aimed at technical computing for R&D and education.
 
-[**Vaspkit**](https://vaspkit.com/)
+[**VASPKIT**](https://vaspkit.com/)
 : VASPKIT aims at providing a powerful and user-friendly interface to perform high throughput analysis of various material properties from the raw calculated data using the widely-used VASP code.
 
-[**Wanniertools**](http://www.wanniertools.com/)
+[**WannierTools**](http://www.wanniertools.com/)
 : WannierTools is an open source software that studies the physical properties of given tight-binding model.
 
-[**Python-matplotlib and numpy**](https://matplotlib.org/)
+[**Python with Matplotlib and Numpy**](https://matplotlib.org/)
 : Matplotlib is a plotting library for Python. It is used along with NumPy to provide an environment that is an effective open source alternative for MatLab. It can also be used with graphics toolkits like PyQt and wxPython.
 
 ### Published Articles
