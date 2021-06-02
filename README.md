@@ -14,7 +14,7 @@ A Runner(__PB__:1:27:56(__Half__))
 
 **First principles calculations**
 
-**2D materials(TMD and TMDC)**
+**2D materials(TMD and TMDs)**
    
 **Chemical Vapor Deposition(CVD)**
 
