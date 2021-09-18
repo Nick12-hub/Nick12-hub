@@ -61,5 +61,4 @@ __Coming Soon !__
 
 🐦 Twitter: [@Nickyy_Lee](https://twitter.com/Nickyy_Lee)
 
-### STRAVA
-<iframe frameborder='0' allowtransparency='true' scrolling='no' width=“150” height=“280” src="https://www.strava.com/athletes/60388771/activity-summary/6812c1319079bcc54c0757532b0121dc05c47e42" scrolling="no"></iframe>
+
