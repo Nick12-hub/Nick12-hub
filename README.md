@@ -20,6 +20,7 @@ A Runner(__PB__:1:27:56(__Half__))
 
 **Mathematical modeling** 
 
+**Machine Learning**
 
 ## Common Calculations' Softwares and Packages
 
@@ -47,7 +48,7 @@ A Runner(__PB__:1:27:56(__Half__))
 [**WannierTools**](http://www.wanniertools.com/)
 : WannierTools is an open source software that studies the physical properties of given tight-binding model.
 
-[**Python with Matplotlib and Numpy**](https://matplotlib.org/)
+[**Python**](https://matplotlib.org/)
 : Matplotlib is a plotting library for Python. It is used along with NumPy to provide an environment that is an effective open source alternative for MatLab. It can also be used with graphics toolkits like PyQt and wxPython.
 
 ### Published Articles
@@ -55,7 +56,7 @@ A Runner(__PB__:1:27:56(__Half__))
 __Coming Soon !__ 
 
 ### Contact Me 
-📧 Email: [nickli12121212@gmail.com](nickli12121212@gmail.com)
+📧 Email: [nickylcq@outlook.com](nickylcq@outlook.com)
 
 ⌨️  Github: [nick12-hub](https://github.com/nick12-hub)
 
