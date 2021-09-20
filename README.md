@@ -1,5 +1,5 @@
 ## Hello everyone👋 Welcome to my Pages ！
-<img align="right" width="250" height="250" src="https://github.com/Nick12-hub/Nick12-hub/blob/main/41619012120_.pic.jpg">
+<img align="right" width="280" height="280" src="https://github.com/Nick12-hub/Nick12-hub/blob/main/WechatIMG69.jpeg">
 
 ## Self Introduction
 
