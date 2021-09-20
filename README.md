@@ -12,11 +12,11 @@ A Runner(__PB__:1:27:56(__Half__))
 
 ## My Research Interests
 
-**First principles calculations**    \qquad   **2D materials(TMD and TMDs)**
+**First principles calculations**    &emsp;&emsp;   **2D materials(TMD)**
    
-**Chemical Vapor Deposition(CVD)**   \qquad  **Mathematical modeling** 
+**Chemical Vapor Deposition**   &emsp;&emsp;  **Mathematical modeling** 
 
-**Machine Learning**
+**Machine Learning**     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;   **Topological materials**
 
 ## Common Calculations' Softwares and Packages
 
