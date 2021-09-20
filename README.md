@@ -12,13 +12,9 @@ A Runner(__PB__:1:27:56(__Half__))
 
 ## My Research Interests
 
-**First principles calculations**
-
-**2D materials(TMD and TMDs)**
+**First principles calculations**    \qquad   **2D materials(TMD and TMDs)**
    
-**Chemical Vapor Deposition(CVD)**
-
-**Mathematical modeling** 
+**Chemical Vapor Deposition(CVD)**   \qquad  **Mathematical modeling** 
 
 **Machine Learning**
 
@@ -47,9 +43,6 @@ A Runner(__PB__:1:27:56(__Half__))
 
 [**WannierTools**](http://www.wanniertools.com/)
 : WannierTools is an open source software that studies the physical properties of given tight-binding model.
-
-[**Python**](https://matplotlib.org/)
-: Matplotlib is a plotting library for Python. It is used along with NumPy to provide an environment that is an effective open source alternative for MatLab. It can also be used with graphics toolkits like PyQt and wxPython.
 
 ### Published Articles
 
