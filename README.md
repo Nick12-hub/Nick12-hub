@@ -20,28 +20,9 @@ A Runner(__PB__:1:27:56(__Half__))
 
 ## Common Calculations' Softwares and Packages
 
-[**VASP**](https://www.vasp.at/)
+[**VASP**](https://www.vasp.at/)   &emsp; | &emsp;  [**MedeA**](https://www.materialsdesign.com/medea-software)
 
-
-[**MedeA**](https://www.materialsdesign.com/medea-software)
-
-
-[**Wannier90**](http://www.wannier.org/)
-
-
-[**Phonopy**](https://phonopy.github.io/phonopy/vasp.html)
-
-
-[**MATLAB**](https://matlab.mathworks.com/)
-
-
-[**Mathematica**](https://www.wolfram.com/mathematica/)
-
-
-[**VASPKIT**](https://vaspkit.com/)
-
-
-[**WannierTools**](http://www.wanniertools.com/)
+[**Wannier90**](http://www.wannier.org/)  &emsp; | &emsp;  [**WannierTools**](http://www.wanniertools.com/)
 
 
 ### Published Articles
