@@ -18,22 +18,16 @@ A Runner(__PB__:1:27:56(__Half__))
 
 **Machine Learning** &emsp; | &emsp;   **Topological materials**
 
-## Common Calculations' Softwares and Packages
-
-[**VASP**](https://www.vasp.at/)   &emsp; | &emsp;  [**MedeA**](https://www.materialsdesign.com/medea-software)
-
-[**Wannier90**](http://www.wannier.org/)  &emsp; | &emsp;  [**WannierTools**](http://www.wanniertools.com/)
-
 
 ### Published Articles
 
 __Coming Soon !__ 
 
 ### Contact Me 
+
 📧 Email: [nickylcq@outlook.com](nickylcq@outlook.com)
 
 ⌨️  Github: [nick12-hub](https://github.com/nick12-hub)
 
-🐦 Twitter: [@Nickyy_Lee](https://twitter.com/Nickyy_Lee)
 
 
