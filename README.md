@@ -1,5 +1,6 @@
-## Hello every Githuber👋 
-<img align="right" width="420" height="250" src="https://github.com/Nick12-hub/Nick12-hub/blob/main/WechatIMG71.jpeg">
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
 
 ## Self Introduction
 
