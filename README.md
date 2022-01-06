@@ -7,11 +7,11 @@ My ![Visitor Count](https://profile-counter.glitch.me/Nick12-hub/count.svg) visi
 # I'm Cunquan Lee <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 - 🔭 I’m currently working on **Tianjin Key Laboratory for Photoelectric Materials and Devices**
-- 🌱 I’m currently learning **DFT**
+- 🌱 I’m currently learning **[DFT](https://en.wikipedia.org/wiki/Density_functional_theory)**
 - 👯 Currently working in **Tianjin, China**
-- 🤔 I love **Running, Research**
+- 🤔 I love **[Running](https://www.strava.com/athletes/60388771)**, **[Research](https://orcid.org/my-orcid?orcid=0000-0002-8793-3481)**
 - 💬 Ask me about Machine Learning, Python and VASP
-- 📫 How to reach me: **nickylcq@outlook.com**
+- 📫 How to reach me: **Nickylcq@outlook.com**
 - 😄 You may like [My Website](https://lyy0108.codes/)
 - ⚡ Fun fact: **BiliBili, Movie**
 
