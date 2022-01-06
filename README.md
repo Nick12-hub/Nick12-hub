@@ -4,14 +4,21 @@
 
 My ![Visitor Count](https://profile-counter.glitch.me/Nick12-hub/count.svg) visitor
 
-## Self Introduction
+# I'm Cunquan Lee <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-Undergraduate III
+- 🔭 I’m currently working on **Tianjin Key Laboratory for Photoelectric Materials and Devices; School of Material Science and Engineering, Tianjin University of Technology**
+- 🌱 I’m currently learning **DFT**
+- 👯 Currently working in **TianJin, China**
+- 🤔 I love **Running, Research**
+- 💬 Ask me about Machine Learning, Python and VASP
+- 📫 How to reach me: **nickylcq@outlook.com**
+- 😄 You may like [My Website](https://lyy0108.codes/)
+- ⚡ Fun fact: **BiliBili, Movie**
 
-Amateur coder
+# About My Github
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nick12-hub)](https://github.com/Nick12-hub/github-readme-stats)
 
-A Runner(__PB__:1:27:56(__Half__))
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nick12-hub&show_icons=true&theme=tokyonight)
 
 ## My Research Interests
 
