@@ -6,9 +6,9 @@ My ![Visitor Count](https://profile-counter.glitch.me/Nick12-hub/count.svg) visi
 
 # I'm Cunquan Lee <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-- 🔭 I’m currently working on **Tianjin Key Laboratory for Photoelectric Materials and Devices; School of Material Science and Engineering, Tianjin University of Technology**
+- 🔭 I’m currently working on **Tianjin Key Laboratory for Photoelectric Materials and Devices**
 - 🌱 I’m currently learning **DFT**
-- 👯 Currently working in **TianJin, China**
+- 👯 Currently working in **Tianjin, China**
 - 🤔 I love **Running, Research**
 - 💬 Ask me about Machine Learning, Python and VASP
 - 📫 How to reach me: **nickylcq@outlook.com**
