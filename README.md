@@ -17,7 +17,6 @@ My ![Visitor Count](https://profile-counter.glitch.me/Nick12-hub/count.svg) visi
 
 # About My Github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nick12-hub)](https://github.com/Nick12-hub/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nick12-hub&show_icons=true&theme=tokyonight)
 
 
