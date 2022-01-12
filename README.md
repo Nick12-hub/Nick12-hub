@@ -2,8 +2,6 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 80%" />
 </div>  
 
-My ![Visitor Count](https://profile-counter.glitch.me/Nick12-hub/count.svg) visitors
-
 # I'm Cunquan Lee <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 - 🔭 I’m currently working on **Tianjin Key Laboratory for Photoelectric Materials and Devices**
