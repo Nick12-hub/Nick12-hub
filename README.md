@@ -13,15 +13,14 @@
 - 😄 You may like [My Website](https://lyy0108.codes/)
 - ⚡ Fun fact: **BiliBili, Movie**
 
-# My Github Stats
+# Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nick12-hub)](https://github.com/Nick12-hub/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nick12-hub&show_icons=true&theme=tokyonight)
 
 
 
-## My Skill Set  
+## Skill 
 <table><tr><td valign="top" width="33%">
-
 
 
 ### Skilled
@@ -33,7 +32,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
 
 
 ### Studying
