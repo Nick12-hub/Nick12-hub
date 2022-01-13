@@ -9,8 +9,8 @@
 - 👯 Currently working in **Tianjin, China**
 - 🤔 I love **[Running](https://www.strava.com/athletes/60388771)**, **[Research](https://orcid.org/my-orcid?orcid=0000-0002-8793-3481)**
 - 💬 Ask me about Machine Learning, Python and VASP
-- 📫 How to reach me: **Nickylcq@outlook.com**
-- 😄 You may like [My Website](https://lyy0108.codes/)
+- 📫 How to reach me: **cunquanli@gmail.com**
+- 😄 You may like [My Pages](https://lyy0108.codes/)
 - ⚡ Fun fact: **BiliBili, Movie**
 
 # Github Stats
