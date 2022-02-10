@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently working on **Tianjin Key Laboratory for Photoelectric Materials and Devices**
 - 🌱 I’m currently learning **[DFT](https://en.wikipedia.org/wiki/Density_functional_theory)**
-- 🤔 I love **[Running](https://www.strava.com/athletes/60388771)**, **[Research](https://orcid.org/my-orcid?orcid=0000-0002-8793-3481)**
 - 💬 Ask me about Machine Learning, Python and VASP
 - 📫 How to reach me: **cunquanli@gmail.com**
 - 😄 You may like [My Pages](https://lyy0108.codes/)
