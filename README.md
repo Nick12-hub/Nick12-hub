@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
 
 # I'm Cunquan Lee <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
@@ -11,7 +11,7 @@
 - 💬 Ask me about Machine Learning, Python and VASP
 - 📫 How to reach me: **cunquanli@gmail.com**
 - 😄 You may like [My Pages](https://lyy0108.codes/)
-- ⚡ Fun fact: **BiliBili, Movie**
+- 🤝 I am open for any collaboration, hit me up here on GitHub or e-mail me!
 
 
 
