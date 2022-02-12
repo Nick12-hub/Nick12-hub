@@ -9,7 +9,7 @@
 - 💬 Ask me about Machine Learning, Python and VASP
 - 📫 How to reach me: **cunquanli@gmail.com**
 - 😄 You may like [My Pages](https://lyy0108.codes/)
-- 🤝 I am open for any collaboration, hit me up here on GitHub or e-mail me!
+- 🤝 I am open for any collaboration, hit me up here on GitHub or E-mail me!
 
 
 
