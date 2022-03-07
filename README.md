@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **[DFT](https://en.wikipedia.org/wiki/Density_functional_theory)**
 - 💬 Ask me about Machine Learning, Python and VASP
 - 📫 How to reach me: **cunquanli@gmail.com**
-- 😄 You may like [My Pages](https://lyy0108.codes/)
+- 😄 You may like [My Pages](https://nick12-hub.github.io/)
 - 🤝 I am open for any collaboration, hit me up here on GitHub or E-mail me!
 
 
