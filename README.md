@@ -1,10 +1,10 @@
 # I'm Cunquan Lee <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-- 🔭 I’m currently working on **Tianjin Key Laboratory for Photoelectric Materials and Devices**
-- 🌱 I’m currently learning **[DFT](https://en.wikipedia.org/wiki/Density_functional_theory)**
-- 💬 Ask me about Machine Learning, Python and VASP
-- 📫 How to reach me: **cunquanli@gmail.com**
-- 😄 You may like [My Pages](https://nick12-hub.github.io/)
+- 🔭 I’m currently working on **Sch. of MSE, Tianjin Univ. of Tech.**.
+- 🌱 I’m currently learning **[DFT](https://en.wikipedia.org/wiki/Density_functional_theory)**.
+- 💬 Ask me about Machine Learning, MATLAB and VASP.
+- 📫 How to reach me: **cunquanli@gmail.com**.
+- 😄 You may like [My Pages](https://nick12-hub.github.io/).
 - 🤝 I am open for any collaboration, hit me up here on GitHub or E-mail me!
 
 
