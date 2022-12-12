@@ -1,6 +1,6 @@
 # I'm Cunquan Lee <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-- 🔭 I’m currently working on **Sch. of MSE, Tianjin Univ. of Tech.**
+- 🔭 I’m currently working on **School of Engineering, Westlake University**
 - 🌱 I’m currently learning **[DFT](https://en.wikipedia.org/wiki/Density_functional_theory)**.
 - 💬 Ask me about Machine Learning, MATLAB and VASP.
 - 📫 How to reach me: **cunquanli@gmail.com**.
