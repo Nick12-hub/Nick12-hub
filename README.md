@@ -1,11 +1,7 @@
 # I'm Cunquan Lee <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-- 🔭 I’m currently working on **School of Engineering, Westlake University**
-- 🌱 I’m currently learning **synthesis of novel nano semiconductor materials**.
-- 💬 Ask me about Machine Learning, MATLAB and VASP.
-- 📫 How to reach me: **cunquanli@gmail.com**.
-- 😄 You may like [My Pages](https://nick12-hub.github.io/).
-- 🤝 I am open for any collaboration, hit me up here on GitHub or E-mail me!
+- 🔭 **Cunquan Li** is a Ph.D. student from the School of Engineering at Westlake University. He is currently enrolled in the Zhejiang University-Westlake University joint Ph.D. program. He joined the Nano Semiconductor Materials Lab led by Dr. Enzheng SHI in 2023. His current research focuses on the precise preparation and application of the novel 2D Janus monolayer.
+
 
 
 
