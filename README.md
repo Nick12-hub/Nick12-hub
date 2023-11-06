@@ -1,6 +1,6 @@
 # I'm Cunquan Lee <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-- 🔭 **Cunquan Li** is a Ph.D. student from the School of Engineering at Westlake University. He is currently enrolled in the Zhejiang University-Westlake University joint Ph.D. program. He joined the Nano Semiconductor Materials Lab led by Dr. Enzheng SHI in 2023. His current research focuses on the precise preparation and application of the novel 2D Janus monolayer.
+- 🔭 **Cunquan Li** is a Ph.D. student from the School of Engineering at Westlake University. He is currently enrolled in the Zhejiang University-Westlake University joint Ph.D. program. He joined the Nano Semiconductor Materials Lab led by Dr. Enzheng Shi in 2023. His current research focuses on the precise preparation and application of the novel 2D Janus monolayer.
 
 
 
