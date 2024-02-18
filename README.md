@@ -2,12 +2,6 @@
 
 - 🔭 **Cunquan Li** is a Ph.D. student from the School of Engineering at Westlake University. He is currently enrolled in the Zhejiang University-Westlake University joint Ph.D. program. He joined the Lab led by  in 2023. His current research focuses on the ...
 
-
-
-
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
-
-
 # Connect with me  
 <div align="center">
 <a href="https://github.com/Nick12-hub" target="_blank">
